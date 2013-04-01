@@ -1,0 +1,15 @@
+.b-task {
+	line-height: 1.6666em;
+	border: 1px #ccc solid;
+	background: #fff;
+	margin: 10px;
+	padding: 10px;
+}
+
+.b-task-caption {
+	font-size: 1.1666em;
+}
+
+.b-task-img {
+	display: block;
+}

@@ -1,0 +1,28 @@
+/* =Main Styles
+__________________________________*/
+
+html, body {
+  height: 100%;
+}
+
+html {
+  font-size: 100.01%;
+}
+
+body {
+  font: 0.75em Arial, Helvetica, sans-serif;
+  /* 12px */
+  color: #2D3038;
+  background: #fff;
+  min-width: 1000px;
+}
+
+input {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #0078C7;
+  text-decoration: none;
+  outline: none;
+}

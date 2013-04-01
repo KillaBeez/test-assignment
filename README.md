@@ -31,7 +31,7 @@
 ### Автор
 [Anton Ignatov](https://github.com/a-ignatov-parc)
 
-Так же спасибо за помощь:
+Так же особое спасибо за помощь:
 
 * [Филипп Андрейчев](https://github.com/f-andrejchev-parc)
 

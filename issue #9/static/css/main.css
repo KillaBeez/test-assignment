@@ -1,0 +1,28 @@
+/* =Main Styles
+__________________________________*/
+@import url(../../../global/css/layout.css);
+
+/* =User Styles
+__________________________________*/
+.b-container {
+	padding: 10px;
+	position: relative;
+}
+
+.b-select {
+	width: 300px;
+	margin-right: 10px;
+}
+
+.b-info {
+	float: right;
+	color: #00f;
+	font-weight: bold;
+	font-size: 10px;
+	position: relative;
+	z-index: 1;
+}
+
+.b-info:hover {
+	text-decoration: underline;
+}

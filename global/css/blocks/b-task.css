@@ -20,6 +20,10 @@
 	display: block;
 }
 
+.b-task-img--issue9 {
+	margin-left: -6px;
+}
+
 .b-task-code {
 	font: 12px Consolas, "Liberation Mono", Courier, monospace;
 	margin: 0 2px;

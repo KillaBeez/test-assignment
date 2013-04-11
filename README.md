@@ -34,7 +34,9 @@
 
 	![](https://dl.dropbox.com/u/7417149/Screenshots/f9.png)
 1. Реализовать с помощью замыканий смену выдачи контента;
-1. Реализация затухающего маятника на `canvas`;
+1. ✓ Реализация затухающего маятника на `canvas`;
+	![](http://dl.dropboxusercontent.com/u/7417149/Screenshots/gh.png)
+1. _to be continued…_
 
 ----
 

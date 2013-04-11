@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Issue #11</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<link rel="stylesheet" type="text/css" href="static/css/main.css" />
+		<script type="text/javascript" src="static/js/libs/jquery.min.js"></script>
+		<script type="text/javascript" src="static/js/main.js"></script>
+	</head>
+	<body>
+		<div class="b-task">
+			<h1 class="b-task-caption">Задание №11</h1>
+			<p class="b-task-article">Необходимо реализовать на канвасе анимацию затухающего маятника с возможностью задания изначального угла и остановки анимации, как показано на приложенном видео.</p>
+			<p class="b-task-article">Желательно реализовать работу с канвасом без использования сторонних библиотек. Внешний вид маятника не играет никакого значения.</p>
+			<p class="b-task-article">
+				<iframe src="http://player.vimeo.com/video/63808157?title=0&amp;byline=0&amp;portrait=0" width="500" height="283" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+			</p>
+		</div>
+		<div class="b-task">
+			<h1 class="b-task-caption">Результат выполнения</h1>
+			<form class="b-form">
+				<label>
+					Angle:
+					<input type="text" class="b-input" name="angle" value="80" />
+				</label>
+				<button class="b-button" type="submit">Animate</button>
+				<button class="b-button" type="reset" disabled>Stop</button>
+			</form>
+			<div class="b-task-result">
+				<canvas id="canvas" width="400" height="200"></canvas>
+			</div>
+		</div>
+	</body>
+</html>

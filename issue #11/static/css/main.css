@@ -5,3 +5,10 @@ __________________________________*/
 
 /* =User Styles
 __________________________________*/
+
+#canvas {
+	border: 1px solid #eaeaea;
+	border-radius: 3px;
+	background: #f8f8f8;
+	margin-top: 10px;
+}

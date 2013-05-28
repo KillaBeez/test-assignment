@@ -20,6 +20,11 @@
 	display: block;
 }
 
+.b-task-img--inline {
+	display: inline-block;
+	vertical-align: top;
+}
+
 .b-task-img--issue9 {
 	margin-left: -6px;
 }

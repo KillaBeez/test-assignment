@@ -3,7 +3,7 @@
 ### Как можно помочь в составлении списка заданий:
 
 1. Делаем форк от репозитория;
-1. Пишем короткое задание со скриншотом того как должен выглядеть результат в [ReadMe.md](https://github.com/a-ignatov-parc/test-assignment/blob/master/README.md);
+1. Пишем короткое задание со скриншотом того как должен выглядеть результат в [ReadMe.md](README.md);
 1. Создаем отдельную папку (копируя уже готовые) и делаем в ней описание со всеми ньюансами;
 1. Делаем пул-пеквест;
 1. Дописываем в коментарии к пул-реквесту ссылку на [jsfiddle](http://jsfiddle.net/) с ответом.
@@ -62,4 +62,4 @@
 
 * [Филипп Андрейчев](https://github.com/f-andrejchev-parc)
 
-[И всем остальным кто помогал](https://github.com/a-ignatov-parc/test-assignment/contributors)
+[И всем остальным кто помогал](https://github.com/KillaBeez/test-assignment/contributors)
